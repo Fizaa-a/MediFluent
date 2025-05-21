@@ -1,5 +1,5 @@
 # MediFluent: AI-Supported Predictive Healthcare Platform for Travelers and Expatriates
-## Abstract
+# Abstract
 MediFluent is a healthcare platform designed to serve the medical needs of foreign visitors and
 expatriates through a user-friendly interface that resolves common issues faced when accessing
 unfamiliar medical systems abroad. During emergencies, patients often lack crucial medical
@@ -16,7 +16,7 @@ MediFluent's cross-border health service initially aimed at foreign visitors now
 global patient populations, contributing to the modernization of healthcare operations and improved
 worldwide medical results.
 ---
-## Keywords
+# Keywords
 Healthcare, AI, Chatbots, Telemedicine, Drug Interaction, Emergency Response, Expatriates,Global Health
 ---
 ## Introduction
@@ -33,15 +33,15 @@ data, to ensure accurate and personalized healthcare assistance. It supports mul
 aims to reduce healthcare barriers for underserved populations worldwide.
 ---
 ## Features
-- **Emergency Facility Locator:** Quickly find hospitals and clinics nearby via integrated maps.
-- **AI Chatbot:** Provides health advice, answers common questions, and reduces healthcare
-provider workload.- **Drug Equivalency Search:** Helps identify international drug substitutes.
-- **Drug Interaction Analysis:** Informs users about possible side effects and medication
+- *Emergency Facility Locator:* Quickly find hospitals and clinics nearby via integrated maps.
+- *AI Chatbot:* Provides health advice, answers common questions, and reduces healthcare
+provider workload.- *Drug Equivalency Search:* Helps identify international drug substitutes.
+- *Drug Interaction Analysis:* Informs users about possible side effects and medication
 interactions.
-- **Medical Consultation:** Automated, immediate responses to typical health concerns.
-- **Multilingual Support:** Accessible to a global audience.
+- *Medical Consultation:* Automated, immediate responses to typical health concerns.
+- *Multilingual Support:* Accessible to a global audience.
 ---
-## Algorithm Overview
+# Algorithm Overview
 The AI-driven system processes user queries such as drug equivalency, emergency support,
 drug-drug interactions, and home remedies. It tokenizes and semantically analyzes input, identifies
 query types, and retrieves data from pharmaceutical databases, Google Maps API, and verified
@@ -49,7 +49,7 @@ medical datasets. The AI model then generates structured, relevant responses dis
 web interface. User queries are logged for continuous improvement, and error handling ensures
 smooth operation.
 ---
-## Datasets
+# Datasets
 MediFluent uses curated datasets including:
 - Emergency contact information with names, phone numbers, emails, and relationships for
 communication patterns.
@@ -57,12 +57,12 @@ communication patterns.
 effects for safety evaluations.
 - Multiple structured and unstructured healthcare datasets to enhance patient care and operational
 insights.
----## Evaluation and Results
+---# Evaluation and Results
 The system delivers precise data on medical comparisons, drug interactions, and side effects,
 enabling personalized treatment recommendations and emergency handling tailored to user health
 needs. Its deep learning approach surpasses conventional mobile apps in accuracy and usability.
 ---
-## Conclusion and Future Scope
+# Conclusion and Future Scope
 MediFluent revolutionizes healthcare access for travelers and migrants by integrating emergency
 medication equivalence, drug interaction analysis, and AI-driven medical support using LLaMA3. It
 monitors over 1,000 drug mixtures, preventing fatal adverse effects and empowering users to make

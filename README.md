@@ -1,5 +1,5 @@
 # MediFluent: AI-Supported Predictive Healthcare Platform for Travelers and Expatriates
-# Abstract
+## Abstract
 MediFluent is a healthcare platform designed to serve the medical needs of foreign visitors and
 expatriates through a user-friendly interface that resolves common issues faced when accessing
 unfamiliar medical systems abroad. During emergencies, patients often lack crucial medical
